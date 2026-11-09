@@ -56,10 +56,8 @@ Aplikasi ini mencakup 6 modul utama:
 | Peran | Nama |
 |-------|------|
 | 👑 Pembuat  | 
-
 |Yolanda : Menganalisis kebutuhan, Mendesain sistem, dan database.      |
 |Shafira : Menganalisis kebutuhan, Membuat desain sistem, dan database. |
-
 | 🤝 Kontributor | |
 | ChickenMonsta : Raja Iblis, Instruktur
 
