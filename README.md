@@ -53,13 +53,13 @@ Aplikasi ini mencakup 6 modul utama:
 
  👨‍💻 Kontributor & Pembuat
 
-| Peran | Nama |
+| Nama | Peran |
 |-------|------|
 | 👑 Pembuat  | 
-|Yolanda : Menganalisis kebutuhan, Mendesain sistem, dan database.      |
-|Shafira : Menganalisis kebutuhan, Membuat desain sistem, dan database. |
-| 🤝 Kontributor | |
-| ChickenMonsta : Raja Iblis, Instruktur
+|Yolanda | Menganalisis kebutuhan, Mendesain sistem, dan database.      |
+|Shafira | Menganalisis kebutuhan, Membuat desain sistem, dan database. |
+| 🤝 Kontributor | 
+| ChickenMonsta | Raja Iblis, Instruktur
 
 
 ---
